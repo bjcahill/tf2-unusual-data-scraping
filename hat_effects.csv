@@ -1,0 +1,150 @@
+effect_name,effect_id,effect_generation,partner_effects
+Burning Flames,13,First Generation,['Scorching Flames (green)']
+Circling Heart,19,First Generation,[]
+Circling Peace Sign,18,First Generation,[]
+Circling TF Logo,11,First Generation,[]
+Green Confetti,6,First Generation,['Purple Confetti (purple)']
+Green Energy,9,First Generation,['Purple Energy (purple)']
+Haunted Ghosts,8,First Generation,[]
+Massed Flies,12,First Generation,[]
+Purple Confetti,7,First Generation,['Green Confetti (green)']
+Purple Energy,10,First Generation,['Green Energy (green)']
+Scorching Flames,14,First Generation,['Burning Flames (red)']
+Searing Plasma,15,First Generation,['Vivid Plasma (gold)']
+Sunbeams,17,First Generation,[]
+Vivid Plasma,16,First Generation,['Searing Plasma (green-purple)']
+Blizzardy Storm,30,Second Generation,['Stormy Storm (lightning cloud)']
+Bubbling,34,Second Generation,[]
+Nuts n' Bolts,31,Second Generation,[]
+Orbiting Fire,33,Second Generation,[]
+Orbiting Planets,32,Second Generation,[]
+Smoking,35,Second Generation,['Steaming (white)']
+Steaming,36,Second Generation,['Smoking (black)']
+Stormy Storm,29,Second Generation,['Blizzardy Storm (snow cloud)']
+Aces High,59,Third Generation,['Dead Presidents (money)']
+Cloud 9,58,Third Generation,[]
+Dead Presidents,60,Third Generation,['Aces High (playing cards)']
+Disco Beat Down,62,Third Generation,[]
+Kill-a-Watt,56,Third Generation,['Terror-Watt (green)']
+Miami Nights,61,Third Generation,[]
+Terror-Watt,57,Third Generation,['Kill-a-Watt (yellow)']
+Aromatica,148,Summer 2020,"['Chromatica (purple)', 'Prismatica (blue)']"
+Bee Swarm,151,Summer 2020,[]
+Chromatica,149,Summer 2020,"['Aromatica (orange)', 'Prismatica (blue)']"
+Frisky Fireflies,152,Summer 2020,"['Smoldering Spirits (orange)', 'Wandering Wisps (purple)']"
+Kaleidoscope,155,Summer 2020,[]
+Prismatica,150,Summer 2020,"['Aromatica (orange)', 'Chromatica (purple)']"
+Smoldering Spirits,153,Summer 2020,"['Frisky Fireflies (yellow)', 'Wandering Wisps (purple)']"
+Verdatica,147,Summer 2020,[]
+Wandering Wisps,154,Summer 2020,"['Frisky Fireflies (yellow)', 'Smoldering Spirits (orange)']"
+Cauldron Bubbles,39,Halloween 2011,[]
+Cloudy Moon,38,Halloween 2011,['Harvest Moon (green)']
+Eerie Orbiting Fire,40,Halloween 2011,[]
+Flaming Lantern,37,Halloween 2011,[]
+Harvest Moon,45,Halloween 2012,['Cloudy Moon (black)']
+It's A Secret To Everybody,46,Halloween 2012,[]
+Knifestorm,43,Halloween 2012,[]
+Misty Skull,44,Halloween 2012,[]
+Stormy 13th Hour,47,Halloween 2012,[]
+Arcana,73,Halloween 2013,['Spellbound (purple)']
+Chiroptera Venenata,75,Halloween 2013,"['Something Burning This Way Comes (orange)', 'Poisoned Shadows (purple)']"
+Darkblaze,79,Halloween 2013,"['Hellfire (orange)', 'Demonflame (green)']"
+Demonflame,80,Halloween 2013,"['Hellfire (orange)', 'Darkblaze (purple)']"
+Hellfire,78,Halloween 2013,"['Darkblaze (purple)', 'Demonflame (green)']"
+Poisoned Shadows,76,Halloween 2013,"['Something Burning This Way Comes (orange)', 'Chiroptera Venenata (green)']"
+Something Burning This Way Comes,77,Halloween 2013,"['Chiroptera Venenata (green)', 'Poisoned Shadows (purple)']"
+Spellbound,74,Halloween 2013,['Arcana (green)']
+Amaranthine,82,Halloween 2014,"['Stare From Beyond (orange)', 'The Ooze (green)']"
+Bonzo The All-Gnawing,81,Halloween 2014,[]
+Ghastly Ghosts Jr,85,Halloween 2014,['Haunted Phantasm Jr (green)']
+Haunted Phantasm Jr,86,Halloween 2014,['Ghastly Ghosts Jr (purple)']
+Stare From Beyond,83,Halloween 2014,"['Amaranthine (purple)', 'The Ooze (green)']"
+The Ooze,84,Halloween 2014,"['Stare From Beyond (orange)', 'Amaranthine (purple)']"
+Ancient Eldritch,105,Halloween 2015,['Eldritch Flame (yellow)']
+Death by Disco,100,Halloween 2015,[]
+Eldritch Flame,106,Halloween 2015,['Ancient Flame (purple)']
+Ether Trail,103,Halloween 2015,['Nether Trail (red)']
+It's a mystery to everyone,101,Halloween 2015,"[""It's a puzzle to me (green)""]"
+It's a puzzle to me,102,Halloween 2015,"[""It's a mystery to everyone (purple)""]"
+Nether Trail,104,Halloween 2015,['Nether Trail (purple)']
+Neutron Star,107,Halloween 2016,[]
+Starstorm Insomnia,109,Halloween 2016,['Starstorm Slumber (purple)']
+Starstorm Slumber,110,Halloween 2016,['Starstorm Insomnia (green)']
+Tesla Coil,108,Halloween 2016,[]
+Brain Drain,111,Halloween 2018,"['Open Mind (orange)', 'Head of Steam (purple)']"
+Clairvoyance,121,Halloween 2018,[]
+Galactic Gateway,114,Halloween 2018,"['The Dark Doorway (purple)', 'The Eldritch Opening (pink)']"
+Head of Steam,113,Halloween 2018,"['Open Mind (orange)', 'Brain Drain (green)']"
+Omniscient Orb,120,Halloween 2018,[]
+Open Mind,112,Halloween 2018,"['Brain Drain (green)', 'Head of Steam (purple)']"
+Ring of Fire,117,Halloween 2018,"['Vicious Circle (purple)', 'White Lightning (white)']"
+The Dark Doorway,116,Halloween 2018,"['Galactic Gateway (blue)', 'The Eldritch Opening (pink)']"
+The Eldritch Opening,115,Halloween 2018,"['The Dark Doorway (purple)', 'Galactic Gateway (blue)']"
+Vicious Circle,118,Halloween 2018,"['Ring of Fire (orange)', 'White Lightning (white)']"
+White Lightning,119,Halloween 2018,"['Vicious Circle (purple)', 'Ring of Fire (orange)']"
+Abyssal Aura,125,Halloween 2019,"['Menacing Miasma (green)', 'Vicious Vortex (purple)']"
+Ethereal Essence,129,Halloween 2019,"['Twisted Radiance (blue)', 'Mystical Medley (purple)']"
+Fifth Dimension,122,Halloween 2019,[]
+Ghastly Grove,127,Halloween 2019,['Wicked Wood (purple)']
+Menacing Miasma,124,Halloween 2019,"['Abyssal Aura (red)', 'Vicious Vortex (purple)']"
+Mystical Medley,128,Halloween 2019,"['Twisted Radiance (blue)', 'Ethereal Essence (green)']"
+Twisted Radiance,130,Halloween 2019,"['Ethereal Essence (green)', 'Mystical Medley (purple)']"
+Valiant Vortex,133,Halloween 2019,"['Verdant Vortex (green)', 'Violet Vortex (purple)']"
+Verdant Vortex,132,Halloween 2019,"['Valiant Vortex (orange)', 'Violet Vortex (purple)']"
+Vicious Vortex,123,Halloween 2019,"['Menacing Miasma (green)', 'Abyssal Aura (red)']"
+Violet Vortex,131,Halloween 2019,"['Verdant Vortex (green)', 'Valiant Vortex (orange)']"
+Wicked Wood,126,Halloween 2019,['Ghastly Grove (green)']
+Gourdian Angel,162,Halloween 2020,[]
+Gravelly Ghoul,160,Halloween 2020,['Vexed Volcanics (orange)']
+Green Giggler,156,Halloween 2020,"['Laugh-O-Lantern (orange)', 'Plum Prankster (purple)']"
+Laugh-O-Lantern,157,Halloween 2020,"['Green Giggler (green)', 'Plum Prankster (purple)']"
+Plum Prankster,158,Halloween 2020,"['Laugh-O-Lantern (orange)', 'Green Giggler (green)']"
+Pumpkin Party,163,Halloween 2020,[]
+Pyroland Nightmare,159,Halloween 2020,[]
+Vexed Volcanics,161,Halloween 2020,['Gravelly Ghoul (purple)']
+Defragmenting Reality,139,Smissmas 2019,"['Fragmenting Reality (green)', 'Refragmenting Reality (orange)']"
+Fragmented Gluons,136,Smissmas 2019,"['Fragmented Photons (purple)', 'Fragmented Quarks (orange)']"
+Fragmented Photons,138,Smissmas 2019,"['Fragmented Gluons (green)', 'Fragmented Quarks (orange)']"
+Fragmented Quarks,137,Smissmas 2019,"['Fragmented Photons (purple)', 'Fragmented Gluons (green)']"
+Fragmenting Reality,141,Smissmas 2019,"['Defragmenting Reality (team colored)', 'Refragmenting Reality (orange)']"
+Frozen Icefall,135,Smissmas 2019,[]
+Pyroland Daydream,145,Smissmas 2019,[]
+Refragmenting Reality,142,Smissmas 2019,"['Fragmenting Reality (green)', 'Defragmenting Reality (team colored)']"
+Snowblinded,144,Smissmas 2019,['Snowfallen (blue)']
+Snowfallen,143,Smissmas 2019,['Snowblinded (white)']
+Sparkling Lights,134,Smissmas 2019,[]
+Blighted Snowstorm,,Smissmas 2020,"['Pale Nimbus (white)', 'Violent Wintertide (blue)']"
+Distant Dream,,Smissmas 2020,['Divine Desire (purple)']
+Divine Desire,,Smissmas 2020,['Distant Dream (blue)']
+Frozen Fractals,,Smissmas 2020,"['Lavender Landfall (purple)', 'Special Snowfall (yellow)']"
+Genus Plasmos,,Smissmas 2020,"['Serenus Lumen (purple)', 'Ventum Maris (green)']"
+Lavender Landfall,,Smissmas 2020,"['Frozen Fractals (blue)', 'Special Snowfall (yellow)']"
+Mirthful Mistletoe,,Smissmas 2020,[]
+Pale Nimbus,,Smissmas 2020,"['Blighted Snowstorm (purple)', 'Violent Wintertide (blue)']"
+Serenus Lumen,,Smissmas 2020,"['Genus Plasmos (yellow)', 'Ventum Maris (green)']"
+Special Snowfall,,Smissmas 2020,"['Lavender Landfall (purple)', 'Frozen Fractals (blue)']"
+Ventum Maris,,Smissmas 2020,"['Serenus Lumen (purple)', 'Genus Plasmos (yellow)']"
+Violent Wintertide,,Smissmas 2020,"['Pale Nimbus (white)', 'Blighted Snowstorm (purple)']"
+Anti-Freeze,69,Robotic Boogaloo,['Roboactive (purple)']
+Electrostatic,67,Robotic Boogaloo,['Power Surge (purple)']
+Green Black Hole,71,Robotic Boogaloo,['Time Warp (pink)']
+Memory Leak,65,Robotic Boogaloo,['Overclocked (yellow)']
+Overclocked,66,Robotic Boogaloo,['Memory Leak (green)']
+Phosphorous,63,Robotic Boogaloo,['Sulphurous (orange)']
+Power Surge,68,Robotic Boogaloo,['Electrostatic (yellow)']
+Roboactive,72,Robotic Boogaloo,['Anti-Freeze (green)']
+Sulphurous,64,Robotic Boogaloo,['Phosphorous (green)']
+Time Warp,70,Robotic Boogaloo,['Green Black Hole (green-purple)']
+Death at Dusk,90,End of the Line,['Morning Glory (day)']
+Frostbite,87,End of the Line,[]
+Molten Mallard,88,End of the Line,[]
+Morning Glory,89,End of the Line,['Death at Dusk (night)']
+Abduction,91,Invasion,[]
+Ancient Codex,98,Invasion,['Galactic Codex (green)']
+Atomic,92,Invasion,['Subatomic (green)']
+Electric Hat Protector,94,Invasion,"['Magnetic Hat Protector (blue)', 'Voltaic Hat Protector (green)']"
+Galactic Codex,97,Invasion,['Ancient Codex (orange)']
+Magnetic Hat Protector,95,Invasion,"['Electric Hat Protector (yellow)', 'Voltaic Hat Protector (green)']"
+Nebula,99,Invasion,[]
+Subatomic,93,Invasion,['Atomic (white)']
+Voltaic Hat Protector,96,Invasion,"['Electric Hat Protector (yellow)', 'Magnetic Hat Protector (blue)']"

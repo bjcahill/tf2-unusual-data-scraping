@@ -1,0 +1,467 @@
+item_name,class,equip_region,grade,robo,availability,release_date,release_update
+Surgeon's Shako,['Medic'],Hat,No Grade,False,['Legacy Crates'],2014-12-22,Smissmas 2014
+Broadband Bonnet,['Demoman'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2013-05-17,Robotic Boogaloo
+Electric Escorter,['Pyro'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2013-05-17,Robotic Boogaloo
+Head Of Defense,['Engineer'],Hat,Mercenary,False,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Conagher's Combover,['Engineer'],Hat,No Grade,False,['Legacy Crates'],2014-12-22,Smissmas 2014
+Lucky Shot,['Soldier'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2012-01-11,Miscellaneous Minor Update
+Bomb Beanie,['Demoman'],Hat,Commando,False,['Unlocked Winter 2016 Cosmetic Case'],2016-12-21,Smissmas 2016
+L'homme Burglerre,['Spy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Spy']",2013-10-10,Fall Event 2013
+Nasty Norsemann,['All class'],Hat,Mercenary,False,['Creepy Crawly Case'],2016-10-21,Scream Fortress VIII
+Gym Rat,['Heavy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2011-10-13,Manniversary Update & Sale
+Magistrate's Mullet,['Spy'],Hat,No Grade,False,['Legacy Crates'],2010-03-18,First Community Contribution Update
+Noble Amassment of Hats,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2010-01-27,Miscellaneous Minor Update
+Voodoo Vizier,['Spy'],Hat,Commando,False,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Rimmed Raincatcher,['Demoman'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Snowcapped,['Medic'],Hat,Mercenary,False,['Winter 2018 Cosmetic Case'],2018-12-19,Smissmas 2018
+Frenchman's Beret,['Spy'],Hat,No Grade,False,['Legacy Crates'],2010-05-20,Second Community Contribution Update
+Valhalla Helm,['Demoman'],Hat,No Grade,False,['Legacy Crates'],2014-12-22,Smissmas 2014
+Caribou Companion,['All class'],Hat,Mercenary,False,['Winter 2017 Cosmetic Case'],2017-12-21,Smissmas 2017
+California Cap,['Scout'],Hat,Mercenary,False,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Mo'Horn,['Heavy'],Hat,Assassin,False,['Creepy Crawly Case'],2016-10-21,Scream Fortress VIII
+Stormin' Norman,['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2013-07-10,Summer Event 2013
+Siberian Facehugger,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2014-12-22,Smissmas 2014
+Scout Shako,['Scout'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2013-12-20,Smissmas 2013
+Peacebreaker,['Soldier'],Hat,Elite,False,['Summer 2019 Cosmetic Case'],2019-07-25,Summer 2019 Pack
+Outdoorsman,['Heavy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2011-10-13,Manniversary Update & Sale
+Breadcrab,['All class'],Hat,Elite,False,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Tippler's Tricorne,['Demoman'],Hat,No Grade,False,['Legacy Crates'],2010-05-20,Second Community Contribution Update
+Shutterbug,['Spy'],Hat,Mercenary,False,['Summer 2019 Cosmetic Case'],2019-07-25,Summer 2019 Pack
+Hat With No Name,"['Soldier', 'Demoman', 'Engineer', 'Sniper']",Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2011-10-13,Manniversary Update & Sale
+Hellmet,['Soldier'],Hat,Mercenary,False,['Gargoyle Case'],2015-10-28,Scream Fortress VII
+Teutonic Toque,['Medic'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2014-02-07,Strongbox Pack
+Valley Forge,['Soldier'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2013-07-10,Summer Event 2013
+Flipped Trilby,['Scout'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Federal Casemaker,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2013-07-10,Summer Event 2013
+Industrial Festivizer,['Engineer'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Heer's Helmet,['Medic'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2014-02-07,Strongbox Pack
+Phononaut,['All class'],Hat,Commando,False,['Confidential Collection Case'],2015-10-06,Invasion Community Update
+Engineer's Cap,['Engineer'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Engineer']",2009-08-13,Classless Update
+Dragonborn Helmet,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2011-08-03,Miscellaneous Minor Update
+Vintage Tyrolean,['Medic'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2009-08-13,Classless Update
+Bolted Bicorne,['Demoman'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2013-05-17,Robotic Boogaloo
+Das Ubersternmann,['Medic'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2013-07-10,Summer Event 2013
+Fruit Shoot,['Sniper'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Sniper']",2012-05-03,Miscellaneous Minor Update
+Mask of the Shaman,['Demoman'],Quickswitch Misc,No Grade,False,['Legacy Crates'],2011-07-29,Miscellaneous Minor Update
+Glengarry Bonnet,['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2009-08-13,Classless Update
+Sophisticated Smoker,"['Soldier', 'Demoman', 'Heavy', 'Engineer']",Hat,Mercenary,False,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Scotsman's Stove Pipe,['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2009-08-13,Classless Update
+Death Racer's Helmet,['Scout'],Hat,Commando,False,['Gargoyle Case'],2015-10-28,Scream Fortress VII
+Highway Star,['Sniper'],Hat,Mercenary,False,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Melted Mop,['Pyro'],Hat,Mercenary,False,['Summer 2019 Cosmetic Case'],2019-07-25,Summer 2019 Pack
+Voodoo JuJu (Slight Return),['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2012-10-26,Spectral Halloween Special
+Furious Fukaamigasa,['Soldier'],Hat,No Grade,False,['Legacy Crates'],2011-05-05,Replay Update
+Aztec Aggressor,['Heavy'],Hat,Assassin,False,['Abominable Cosmetic Case'],2017-10-20,Jungle Inferno Update
+Team Captain,"['Soldier', 'Heavy', 'Medic']",Hat,No Grade,False,['Legacy Crates'],2011-05-05,Replay Update
+Pomade Prince,['Scout'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2014-06-18,Love & War Update
+Your Worst Nightmare,['Sniper'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Sniper']",2011-10-13,Manniversary Update & Sale
+Provisions Cap,['Engineer'],Hat,Assassin,False,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Lucky Cat Hat,['All class'],Hat,Elite,False,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Big Topper,['Spy'],Hat,Commando,False,['Creepy Crawly Case'],2016-10-21,Scream Fortress VIII
+Breach and Bomb,['Soldier'],Hat,Commando,False,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Universal Translator,['All class'],Hat,Mercenary,False,['Quarantined Collection Case'],2015-10-06,Invasion Community Update
+Hottie's Hoodie,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2011-05-05,Replay Update
+Little Buddy,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2011-10-13,Manniversary Update & Sale
+Crack Pot,['Soldier'],Hat,Mercenary,False,['Winter 2018 Cosmetic Case'],2018-12-19,Smissmas 2018
+Toadstool Topper,['All class'],Hat,Commando,False,['Creepy Crawly Case'],2016-10-21,Scream Fortress VIII
+Conquistador,['Soldier'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2012-02-02,Miscellaneous Minor Update
+Peacenik's Ponytail,['Engineer'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Engineer']",2014-06-18,Love & War Update
+Frickin' Sweet Ninja Hood,['Scout'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2014-06-18,Love & War Update
+Safe'n'Sound,['Engineer'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Engineer']",2010-05-20,Second Community Contribution Update
+Mountebank's Masque,['Scout'],Hat,No Grade,False,['Legacy Crates'],2014-12-22,Smissmas 2014
+Brotherhood of Arms,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2013-06-13,Second Workshop Content Pack
+Well-Rounded Rifleman,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2013-06-13,Second Workshop Content Pack
+Tipped Lid,['All class'],Hat,No Grade,False,['Legacy Crates'],2014-06-18,Love & War Update
+Fed-Fightin' Fedora,['Scout'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2012-06-27,Pyromania Update
+Pampered Pyro,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2013-07-10,Summer Event 2013
+Buccaneer's Bicorne,['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2011-10-13,Manniversary Update & Sale
+Heavy Duty Rag,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2010-05-20,Second Community Contribution Update
+Dancing Doe,['Soldier'],Hat,Mercenary,False,['Summer 2019 Cosmetic Case'],2019-07-25,Summer 2019 Pack
+Big Country,['Engineer'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Engineer']",2011-04-07,Third Community Contribution Update
+Firewall Helmet,['Pyro'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2013-05-17,Robotic Boogaloo
+Pardner's Pompadour,['Engineer'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Engineer']",2013-07-10,Summer Event 2013
+Metal Slug,['Pyro'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2013-05-17,Robotic Boogaloo
+Pure Tin Capotain,['Demoman'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2013-05-17,Robotic Boogaloo
+Halogen Head Lamp,['Medic'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2013-05-17,Robotic Boogaloo
+Texas Ten Gallon,['Engineer'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Engineer']",2009-08-13,Classless Update
+Brain Interface,['Engineer'],Hat,Mercenary,False,['Summer 2019 Cosmetic Case'],2019-07-25,Summer 2019 Pack
+El Jefe,['Scout'],Hat,No Grade,False,['Legacy Crates'],2011-08-30,Miscellaneous Minor Update
+Crabe de Chapeau,['Spy'],Hat,Mercenary,False,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Merc's Mohawk,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2014-06-18,Love & War Update
+Connoisseur's Cap,['Pyro'],Hat,No Grade,False,['Legacy Crates'],2011-05-05,Replay Update
+Backwards Ballcap,['Scout'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2011-10-13,Manniversary Update & Sale
+Grenadier's Softcap,['Soldier'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Screamin' Eagle,['Soldier'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2014-12-08,End of the Line Update
+Bubble Pipe,['Pyro'],Hat,No Grade,False,['Legacy Crates'],2011-12-15,Australian Christmas 2011
+Head Warmer,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2011-12-15,Australian Christmas 2011
+Dr's Dapper Topper,['All class'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Polar Bear,['Heavy'],Hat,Mercenary,False,['Winter 2017 Cosmetic Case'],2017-12-21,Smissmas 2017
+Pencil Pusher,['Engineer'],Misc,No Grade,False,['No Longer Unboxable'],2011-10-13,Manniversary Update & Sale
+Ye Oiled Baker Boy,['Scout'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2013-05-17,Robotic Boogaloo
+Flamboyant Flamenco,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2011-10-13,Manniversary Update & Sale
+Big Chief,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Wet Works,['Sniper'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Sniper']",2013-07-10,Summer Event 2013
+Yule Hog,['All class'],Hat,Mercenary,False,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Madame Dixie,['Pyro'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Bonk Leadwear,['Scout'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2013-05-17,Robotic Boogaloo
+Captain Space Mann,['All class'],Misc,Commando,False,['No Longer Unboxable'],2015-10-06,Invasion Community Update
+Bat Hat,['All class'],Hat,Mercenary,False,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Fur-lined Fighter,['Heavy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2014-12-08,End of the Line Update
+A Head Full of Hot Air,['Pyro'],Hat,Mercenary,False,['Confidential Collection Case'],2015-10-06,Invasion Community Update
+Buckaroo's Hat,['Engineer'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Backbiter's Billycock,['Spy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Spy']",2009-08-13,Classless Update
+Citizen Cane,['All class'],Hat,Mercenary,False,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Western Wear,['Engineer'],Hat,No Grade,False,['Legacy Crates'],2011-05-05,Replay Update
+Potassium Bonnet,['All class'],Hat,Elite,False,['Gun Mettle Cosmetic Case'],2015-08-27,Miscellaneous Minor Update
+Sinner's Shade,['Heavy'],Hat,Mercenary,False,['Winter 2017 Cosmetic Case'],2017-12-21,Smissmas 2017
+Gridiron Guardian,['Heavy'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2013-05-17,Robotic Boogaloo
+Bedouin Bandana,['All class'],Hat,Elite,False,['Mayflower Cosmetic Case'],2016-05-11,Mayflower Pack
+B'aaarrgh-n-Bicorne,['Scout'],Hat,Commando,False,['Gargoyle Case'],2015-10-28,Scream Fortress VII
+Aztec Warrior,['All class'],Hat,Elite,False,['Unleash the Beast Cosmetic Case'],2017-10-20,Jungle Inferno Update
+Jungle Wreath,['All class'],Hat,Assassin,False,['Unleash the Beast Cosmetic Case'],2017-10-20,Jungle Inferno Update
+Tam O' Shanter,['Demoman'],Hat,No Grade,False,['Legacy Crates'],2011-07-01,Summer Camp Sale
+Scot Bonnet,['Demoman'],Hat,No Grade,False,['Legacy Crates'],2014-12-22,Smissmas 2014
+Stout Shako,['Soldier'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Letch's LED,['Sniper'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Sniper']",2013-05-17,Robotic Boogaloo
+Hive Minder,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2013-07-10,Summer Event 2013
+Shooter's Tin Topi,['Sniper'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Sniper']",2013-05-17,Robotic Boogaloo
+Boxcar Bomber,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2014-12-08,End of the Line Update
+Condor Cap,['Soldier'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2014-12-08,End of the Line Update
+Plug-In Prospector,['Engineer'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Engineer']",2013-05-17,Robotic Boogaloo
+Brainiac Hairpiece,['Engineer'],Misc,No Grade,False,['No Longer Unboxable'],2011-12-15,Australian Christmas 2011
+Polar Pullover,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2013-12-20,Smissmas 2013
+Hotrod,['Engineer'],Hat,No Grade,False,['Legacy Crates'],2010-03-18,First Community Contribution Update
+Crone's Dome,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2012-10-26,Spectral Halloween Special
+Titanium Tyrolean,['Medic'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2013-05-17,Robotic Boogaloo
+Large Luchadore,['Heavy'],Misc,No Grade,False,['Legacy Crates'],2011-05-05,Replay Update
+Cosa Nostra Cap,['Spy'],Hat,No Grade,False,['Legacy Crates'],2011-06-23,Über Update
+Texas Slim's Dome Shine,['Engineer'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Engineer']",2009-08-13,Classless Update
+Rebel Rouser,['Soldier'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2013-07-10,Summer Event 2013
+Flash of Inspiration,['Engineer'],Hat,Elite,False,['Rainy Day Cosmetic Case'],2017-05-15,Rainy Day Pack
+Racc Mann,['Soldier'],Hat,Assassin,False,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Pom-Pommed Provocateur,['Spy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Spy']",2013-06-13,Second Workshop Content Pack
+Cotton Head,['All Classes'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate All Classes']",2013-10-10,Fall Event 2013
+Professional's Panama,['Sniper'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Sniper']",2009-08-13,Classless Update
+Commando Elite,['Heavy'],Hat,Mercenary,False,['Unleash the Beast Cosmetic Case'],2017-10-20,Jungle Inferno Update
+War Eagle,"['Soldier', 'Demoman', 'Heavy']",Hat,Elite,False,['Abominable Cosmetic Case'],2017-10-20,Jungle Inferno Update
+Punk's Pomp,['Scout'],Hat,Commando,False,['Blue Moon Cosmetic Case'],2018-03-28,Blue Moon Pack
+Spook Specs,['Soldier'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2014-06-18,Love & War Update
+Pithy Professional,['All class'],Hat,Mercenary,False,['Abominable Cosmetic Case'],2017-10-20,Jungle Inferno Update
+Skullbrero,['Pyro'],Hat,Commando,False,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Baron von Havenaplane,['Medic'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2013-07-10,Summer Event 2013
+Dread Hiding Hood,['Sniper'],Hat,No Grade,False,['Legacy Crates'],2014-02-19,Miscellaneous Minor Update
+Neckwear Headwear,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2013-12-20,Smissmas 2013
+Coldfront Commander,['Medic'],Hat,Commando,False,['Winter 2017 Cosmetic Case'],2017-12-21,Smissmas 2017
+Pugilist's Protector,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Bonk Boy,['Scout'],Misc,No Grade,False,['No Longer Unboxable'],2011-06-23,Über Update
+Sergeant's Drill Hat,['Soldier'],Hat,No Grade,False,['Legacy Crates'],2010-05-20,Second Community Contribution Update
+Sammy Cap,['Heavy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2014-02-07,Strongbox Pack
+Climbing Commander,['Soldier'],Hat,Mercenary,False,['Winter 2018 Cosmetic Case'],2018-12-19,Smissmas 2018
+A Well Wrapped Hat,['All class'],Hat,Assassin,False,['Tough Break Cosmetic Case'],2015-12-17,Tough Break Update
+Cool Capuchon,['Heavy'],Hat,Commando,False,['Winter 2018 Cosmetic Case'],2018-12-19,Smissmas 2018
+Fat Man's Field Cap,['Heavy'],Hat,Mercenary,False,['Unleash the Beast Cosmetic Case'],2017-10-20,Jungle Inferno Update
+Brain-Warming Wear,['Spy'],Hat,Mercenary,False,['Unlocked Winter 2016 Cosmetic Case'],2016-12-21,Smissmas 2016
+Platinum Pickelhaube,['Medic'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2013-05-17,Robotic Boogaloo
+Toy Soldier,"['Soldier', 'Sniper']",Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2013-12-20,Smissmas 2013
+Tough Stuff Muffs,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2012-12-20,Mecha Update
+Bare Necessities,['Sniper'],Hat,Assassin,False,['Summer 2019 Cosmetic Case'],2019-07-25,Summer 2019 Pack
+Salty Dog,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2011-10-13,Manniversary Update & Sale
+Ol' Snaggletooth,['Sniper'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Exquisite Rack,['Soldier'],Misc,No Grade,False,['No Longer Unboxable'],2010-12-17,Australian Christmas
+Neptune's Nightmare,['Pyro'],Hat,Commando,False,['Gargoyle Case'],2015-10-28,Scream Fortress VII
+Hetman's Headpiece,['Engineer'],Hat,No Grade,False,['Legacy Crates'],2011-04-28,Miscellaneous Minor Update
+Baseball Bill's Sports Shine,['Scout'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2009-08-13,Classless Update
+Helmet Without a Home,['Soldier'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2012-06-27,Pyromania Update
+Wraith Wrap,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2012-10-26,Spectral Halloween Special
+Katyusha,['Heavy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2013-07-10,Summer Event 2013
+Woolen Warmer,['All class'],Hat,Commando,False,['Unlocked Winter 2016 Cosmetic Case'],2016-12-21,Smissmas 2016
+Executioner,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2012-10-26,Spectral Halloween Special
+Bootleg Base Metal Billycock,['Spy'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Spy']",2013-05-17,Robotic Boogaloo
+Barnstormer,['Engineer'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Engineer']",2012-12-20,Mecha Update
+Sober Stuntman,['Demoman'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Captain Cardbeard Cutthroat,['All class'],Hat,Elite,False,['Gun Mettle Cosmetic Case'],2015-08-27,Miscellaneous Minor Update
+Timeless Topper,['Engineer'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Engineer']",2013-05-17,Robotic Boogaloo
+Hunter in Darkness,['All class'],Hat,Commando,False,['Abominable Cosmetic Case'],2017-10-20,Jungle Inferno Update
+Virus Doctor,['Medic'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2013-05-17,Robotic Boogaloo
+Mann of Reason,['Medic'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2013-12-20,Smissmas 2013
+Pyromancer's Mask,['Pyro'],Misc,No Grade,False,['No Longer Unboxable'],2010-12-17,Australian Christmas
+Cranial Carcharodon,['Pyro'],Hat,Mercenary,False,['Creepy Crawly Case'],2016-10-21,Scream Fortress VIII
+Armored Authority,['Soldier'],Hat,No Grade,False,['Legacy Crates'],2011-06-23,Über Update
+Blast Defense,['Demoman'],Quickswitch Misc,Mercenary,False,['Rainy Day Cosmetic Case'],2017-05-15,Rainy Day Pack
+Gentleman's Gatsby,['Medic'],Hat,No Grade,False,['Legacy Crates'],2010-05-20,Second Community Contribution Update
+Combustible Kabuto,['Pyro'],Hat,No Grade,False,['Legacy Crates'],2014-06-18,Love & War Update
+Hephaistos' Handcraft,['Scout'],Hat,Mercenary,False,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Head Prize,['All class'],Hat,Assassin,False,['Unlocked Winter 2016 Cosmetic Case'],2016-12-21,Smissmas 2016
+Berlin Brain Bowl,['Medic'],Hat,Mercenary,False,['Tough Break Cosmetic Case'],2015-12-17,Tough Break Update
+Towering Pillar of Hats,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2010-01-27,Miscellaneous Minor Update
+Nunhood,['Medic'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2013-12-20,Smissmas 2013
+Napper's Respite,['Pyro'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Liquidator's Lid,['Sniper'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Sniper']",2012-06-27,Pyromania Update
+Trucker's Topper,"['Scout', 'Engineer']",Hat,Mercenary,False,['Winter 2017 Cosmetic Case'],2017-12-21,Smissmas 2017
+Respectless Robo-Glove,['Pyro'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2013-05-17,Robotic Boogaloo
+Das Hazmattenhatten,['Medic'],Misc,No Grade,False,['No Longer Unboxable'],2013-07-10,Summer Event 2013
+Sucker Slug,['Heavy'],Hat,Elite,False,['Quarantined Collection Case'],2015-10-06,Invasion Community Update
+Mighty Mitre,['Medic'],Hat,Mercenary,False,['Winter 2018 Cosmetic Case'],2018-12-19,Smissmas 2018
+Steel Shako,['Soldier'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2013-05-17,Robotic Boogaloo
+Officer's Ushanka,['Heavy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2009-08-13,Classless Update
+Prussian Pickelhaube,['Medic'],Hat,No Grade,False,['Legacy Crates'],2009-05-21,Sniper vs. Spy Update
+Napoleon Complex,['Spy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Spy']",2014-02-07,Strongbox Pack
+Bolted Birdcage,['Pyro'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2013-05-17,Robotic Boogaloo
+Waxy Wayfinder,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2012-03-22,Miscellaneous Minor Update
+Rotation Sensation,['All class'],Hat,Mercenary,False,['Gun Mettle Cosmetic Case'],2015-08-27,Gun Mettle Update
+Ritzy Rick's Hair Fixative,['Sniper'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Sniper']",2009-08-13,Classless Update
+Kiss King,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2013-12-20,Smissmas 2013
+Noble Nickel Amassment of Hats,['All class'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2013-05-17,Robotic Boogaloo
+Hermes,['Scout'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2011-10-13,Manniversary Update & Sale
+Infernal Impaler,['Soldier'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2011-10-27,Very Scary Halloween Special
+Brim-Full of Bullets,['Sniper'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Sniper']",2013-10-10,Fall Event 2013
+Attendant,['Pyro'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Hustler's Hallmark,['Demoman'],Hat,No Grade,False,['Legacy Crates'],2010-03-18,First Community Contribution Update
+Burning Beanie,['Pyro'],Hat,Commando,False,['Winter 2017 Cosmetic Case'],2017-12-21,Smissmas 2017
+Coldsnap Cap,['All class'],Hat,No Grade,False,['Unlocked Cosmetic Crate Multi-Class'],2014-12-08,End of the Line Update
+Burning Bandana,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2013-07-10,Summer Event 2013
+Old Man Frost,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2014-12-22,Smissmas 2014
+El Zapateador,['Soldier'],Hat,Commando,False,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Counterfeit Billycock,['Spy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Spy']",2011-10-13,Manniversary Update & Sale
+Swagman's Swatter,['Sniper'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Sniper']",2011-10-13,Manniversary Update & Sale
+Data Mining Light,['Engineer'],Hat,No Grade,True,['Unlocked Cosmetic Crate Engineer'],2013-05-17,Robotic Boogaloo
+Law,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2014-02-07,Strongbox Pack
+Modest Metal Pile of Scrap,['All class'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2013-05-17,Robotic Boogaloo
+Thirst Blood,['Scout'],Hat,No Grade,False,['Legacy Crates'],2014-09-25,Limited Late Summer Pack
+Smoking Skid Lid,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2014-06-18,Love & War Update
+Prehistoric Pullover,['All class'],Hat,Mercenary,False,['Gargoyle Case'],2015-10-28,Scream Fortress VII
+Mann-O-War,['Heavy'],Hat,Mercenary,False,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Candy Crown,['All class'],Hat,Elite,False,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Bloke's Bucket Hat,['Sniper'],Hat,No Grade,False,['Legacy Crates'],2010-05-20,Second Community Contribution Update
+Troublemaker's Tossle Cap,['Scout'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2010-03-18,First Community Contribution Update
+Das Gutenkutteharen,['Medic'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2013-07-10,Summer Event 2013
+Chieftain's Challenge,['Soldier'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Ye Olde Baker Boy,['Scout'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2009-08-13,Classless Update
+Bread Heads,['All class'],Hat,Elite,False,['Winter 2018 Cosmetic Case'],2018-12-19,Smissmas 2018
+Carouser's Capotain,['Demoman'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Soldier's Stash,['Soldier'],Misc,No Grade,False,['No Longer Unboxable'],2009-05-21,Sniper vs. Spy Update
+Virtual Viewfinder,['All class'],Misc,No Grade,False,['No Longer Unboxable'],2013-07-10,Summer Event 2013
+Villain's Veil,['Sniper'],Misc,No Grade,False,['No Longer Unboxable'],2011-05-05,Replay Update
+Danger,['Engineer'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Engineer']",2014-06-18,Love & War Update
+Strontium Stove Pipe,['Demoman'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2013-05-17,Robotic Boogaloo
+Winter Woodsman,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2014-12-08,End of the Line Update
+Missing Piece,['Sniper'],Hat,Mercenary,False,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Détective Noir,['Spy'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Flamehawk,['Pyro'],Hat,Assassin,False,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Nanobalaclava,['Spy'],Hat,No Grade,False,['Legacy Crates'],2011-08-18,Manno-Technology Bundle
+Sultan's Ceremonial,['Demoman'],Hat,No Grade,False,['Legacy Crates'],2011-06-23,Über Update
+Janissary Ketche,['Spy'],Hat,No Grade,False,['Legacy Crates'],2011-04-28,Miscellaneous Minor Update
+Legendary Lid,['All class'],Hat,Assassin,False,['Rainy Day Cosmetic Case'],2017-05-15,Rainy Day Pack
+Gilded Guard,['Soldier'],Hat,No Grade,False,['Legacy Crates'],2014-02-19,Miscellaneous Minor Update
+Tavish DeGroot Experience,['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2011-10-13,Manniversary Update & Sale
+A Hat to Kill For,['Spy'],Hat,Mercenary,False,['Tough Break Cosmetic Case'],2015-12-17,Tough Break Update
+Birdcage,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2011-10-13,Manniversary Update & Sale
+Larrikin Robin,['Sniper'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Bazaar Bauble,['Soldier'],Hat,Mercenary,False,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Berliner's Bucket Helm,['Medic'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Burning Question,['Pyro'],Hat,Commando,False,['Blue Moon Cosmetic Case'],2018-03-28,Blue Moon Pack
+Bumble Beenie,['All class'],Hat,Mercenary,False,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Whoopee Cap,['Scout'],Hat,No Grade,False,['Legacy Crates'],2010-05-20,Second Community Contribution Update
+Brain Bucket,['Soldier'],Hat,No Grade,False,['Legacy Crates'],2011-04-28,Miscellaneous Minor Update
+Bone Dome,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2013-10-10,Fall Event 2013
+Doctor's Sack,['Medic'],Hat,No Grade,False,['Legacy Crates'],2011-05-05,Replay Update
+Milkman,['Scout'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Bottle Cap,['Scout'],Hat,Mercenary,False,['Summer 2019 Cosmetic Case'],2019-07-25,Summer 2019 Pack
+Prancer's Pride,['Pyro'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Eliminator's Safeguard,['Heavy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2014-02-07,Strongbox Pack
+Telefragger Toque,['Engineer'],Hat,Commando,False,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Scotch Bonnet,['Demoman'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Killer's Kabuto,['Soldier'],Hat,No Grade,False,['Legacy Crates'],2010-03-18,First Community Contribution Update
+Minnesota Slick,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2013-12-20,Smissmas 2013
+Gauzed Gaze,['Medic'],Quickswitch Misc,Commando,False,['Mayflower Cosmetic Case'],2016-05-11,Mayflower Pack
+Tyrantium Helmet,['Soldier'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2013-05-17,Robotic Boogaloo
+FR-0,['Demoman'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2013-05-17,Robotic Boogaloo
+Field Practice,['Medic'],Hat,Mercenary,False,['Rainy Day Cosmetic Case'],2017-05-15,Rainy Day Pack
+Bullet Buzz,['Heavy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2014-02-07,Strongbox Pack
+Sheriff's Stetson,['Engineer'],Hat,Assassin,False,['Gun Mettle Cosmetic Case'],2015-08-27,Gun Mettle Update
+Desert Marauder,['Sniper'],Hat,No Grade,False,['Legacy Crates'],2011-06-23,Über Update
+Spirit of the Bombing Past,['Demoman'],Hat,Commando,False,['Creepy Crawly Case'],2016-10-21,Scream Fortress VIII
+Hungover Hero,['Demoman'],Hat,Elite,False,['Winter 2017 Cosmetic Case'],2017-12-21,Smissmas 2017
+Spiky Viking,['Demoman'],Hat,Mercenary,False,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Runner's Warm-Up,['Scout'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2013-12-20,Smissmas 2013
+Conjurer's Cowl,['Demoman'],Hat,No Grade,False,['Legacy Crates'],2011-05-31,Miscellaneous Minor Update
+Defiant Spartan,['Soldier'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Hat of Cards,['Spy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Spy']",2012-09-06,First Workshop Content Pack
+Aviator Assassin,['Spy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Spy']",2014-06-18,Love & War Update
+Bobby Bonnet,"['Soldier', 'Demoman']",Hat,Assassin,False,['Summer 2019 Cosmetic Case'],2019-07-25,Summer 2019 Pack
+Coffin Kit,['Pyro'],Misc,No Grade,False,['No Longer Unboxable'],2012-10-26,Spectral Halloween Special
+Trophy Belt,['Sniper'],Hat,No Grade,False,['Legacy Crates'],2009-05-21,Sniper vs. Spy Update
+Employee of the Mmmph,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2014-06-18,Love & War Update
+Pirate Bandana,['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2013-10-10,Fall Event 2013
+Anger,['Sniper'],Hat,No Grade,False,['Legacy Crates'],2011-08-03,Miscellaneous Minor Update
+Copper's Hard Top,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2011-07-01,Summer Camp Sale
+Magnificent Mongolian,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Coupe D'isaster,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Dread Knot,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2011-03-10,Shogun Pack
+Triboniophorus Tyrannus,['Pyro'],Hat,No Grade,False,['Legacy Crates'],2010-03-18,First Community Contribution Update
+Hong Kong Cone,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2013-10-10,Fall Event 2013
+Horrific Headsplitter,['All class'],Hat,No Grade,False,['Legacy Crates'],2010-10-27,Scream Fortress Update
+Outta' Sight,['Demoman'],Hat,Commando,False,['Gun Mettle Cosmetic Case'],2015-08-27,Miscellaneous Minor Update
+Plumber's Cap,['Engineer'],Hat,Assassin,False,['Rainy Day Cosmetic Case'],2017-05-15,Rainy Day Pack
+Mister Bones,['All class'],Hat,Elite,False,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Texas Toast,['Engineer'],Hat,Elite,False,['Summer 2019 Cosmetic Case'],2019-07-25,Summer 2019 Pack
+Ze Goggles,['Medic'],Hat,No Grade,False,['Legacy Crates'],2010-05-20,Second Community Contribution Update
+Slick Cut,['Medic'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2013-10-10,Fall Event 2013
+Tank Top,['Soldier'],Hat,Commando,False,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Dumb Bell,['Soldier'],Hat,Assassin,False,['Winter 2018 Cosmetic Case'],2018-12-19,Smissmas 2018
+Crocleather Slouch,['Sniper'],Hat,No Grade,False,['Legacy Crates'],2011-05-05,Replay Update
+Bruce's Bonnet,['Demoman'],Hat,Assassin,False,['Gun Mettle Cosmetic Case'],2015-08-27,Miscellaneous Minor Update
+Caribbean Conqueror,['Soldier'],Hat,No Grade,False,['Unlocked Cosmetic Crate Soldier'],2013-07-10,Summer Event 2013
+Tough Guy's Toque,['Heavy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2009-08-13,Classless Update
+Airdog,['Scout'],Hat,Mercenary,False,['Mayflower Cosmetic Case'],2016-05-11,Mayflower Pack
+Prince Tavish's Crown,['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2010-12-17,Australian Christmas
+L'Inspecteur,['Spy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Spy']",2011-10-13,Manniversary Update & Sale
+Towering Titanium Pillar of Hats,['All class'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2013-05-17,Robotic Boogaloo
+Murderer's Motif,['Spy'],Hat,Mercenary,False,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Sleeveless in Siberia,['Heavy'],Misc,No Grade,False,['No Longer Unboxable'],2014-12-08,End of the Line Update
+Physician's Protector,['Medic'],Hat,Commando,False,['Gun Mettle Cosmetic Case'],2015-08-27,Miscellaneous Minor Update
+Deep Cover Operator,"['Sniper', 'Spy']",Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2014-02-07,Strongbox Pack
+Front Runner,['Scout'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2012-05-10,Miscellaneous Minor Update
+Hard Counter,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Black Watch,['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2013-07-10,Summer Event 2013
+Harmburg,['Spy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Spy']",2013-07-10,Summer Event 2013
+Elf Esteem,['Demoman'],Hat,Mercenary,False,['Unlocked Winter 2016 Cosmetic Case'],2016-12-21,Smissmas 2016
+Bombing Run,['Scout'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Skullcap,['Soldier'],Hat,No Grade,False,['Legacy Crates'],2014-12-22,Smissmas 2014
+Co-Pilot,['All class'],Hat,No Grade,False,['Legacy Crates'],2014-12-22,Smissmas 2014
+Coldfront Curbstompers,['Soldier'],Misc,No Grade,False,['No Longer Unboxable'],2014-12-08,End of the Line Update
+Stately Steel Toe,['Pyro'],Hat,No Grade,False,['Legacy Crates'],2011-07-01,Summer Camp Sale
+Ol' Geezer,['Engineer'],Hat,No Grade,False,['Legacy Crates'],2011-05-05,Replay Update
+One-Man Army,['Heavy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2011-10-13,Manniversary Update & Sale
+White Russian,['Heavy'],Hat,Commando,False,['Gun Mettle Cosmetic Case'],2015-08-27,Miscellaneous Minor Update
+Lightning Lid,['Scout'],Hat,Elite,False,['Rainy Day Cosmetic Case'],2017-05-15,Rainy Day Pack
+Razor Cut,['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2014-06-18,Love & War Update
+Samur-Eye,['Demoman'],Hat,No Grade,False,['Legacy Crates'],2011-03-10,Shogun Pack
+Cyborg Stunt Helmet,['Demoman'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2013-05-17,Robotic Boogaloo
+HazMat Headcase,"['Pyro', 'Sniper']",Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2012-06-27,Pyromania Update
+Tsarboosh,['Heavy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2013-07-10,Summer Event 2013
+Archer's Sterling,['Sniper'],Hat,Commando,False,['Rainy Day Cosmetic Case'],2017-05-15,Rainy Day Pack
+Tyrant's Helm,['Soldier'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2009-08-13,Classless Update
+Pestering Jester,"['Scout', 'Soldier', 'Pyro', 'Heavy']",Hat,Assassin,False,['Creepy Crawly Case'],2016-10-21,Scream Fortress VIII
+Dark Falkirk Helm,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2014-02-07,Strongbox Pack
+Starboard Crusader,['Heavy'],Hat,Commando,False,['Blue Moon Cosmetic Case'],2018-03-28,Blue Moon Pack
+Belgian Detective,['Spy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Spy']",2013-07-10,Summer Event 2013
+Professional's Ushanka,['Sniper'],Hat,No Grade,False,['Legacy Crates'],2014-12-22,Smissmas 2014
+Medic's Mountain Cap,['Medic'],Hat,No Grade,False,['Legacy Crates'],2011-04-07,Third Community Contribution Update
+Demoman's Fro,['Demoman'],Hat,No Grade,False,['Legacy Crates'],2009-05-21,Sniper vs. Spy Update
+Human Cannonball,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2012-08-02,Triad Pack
+Grimm Hatte,['Medic'],Hat,No Grade,False,['Legacy Crates'],2011-04-07,Third Community Contribution Update
+Bomber's Bucket Hat,['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2014-12-08,End of the Line Update
+Trencher's Topper,['Engineer'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Engineer']",2014-02-07,Strongbox Pack
+El Mostacho,['Engineer'],Hat,Mercenary,False,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Das Maddendoktor,['Medic'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2013-07-10,Summer Event 2013
+Hunter Heavy,['Heavy'],Misc,No Grade,False,['No Longer Unboxable'],2014-12-08,End of the Line Update
+Killer Exclusive,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2011-09-15,Miscellaneous Minor Update
+Vampire Vanquisher,['Soldier'],Hat,Mercenary,False,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Toy Tailor,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2013-12-20,Smissmas 2013
+Trash Man,['Heavy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2014-02-07,Strongbox Pack
+Professor's Peculiarity,['Engineer'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Engineer']",2011-04-07,Third Community Contribution Update
+Cat's Pajamas,['Pyro'],Hat,Assassin,False,['Winter 2017 Cosmetic Case'],2017-12-21,Smissmas 2017
+Hazard Headgear,['Demoman'],Hat,Commando,False,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Bonk Helm,['Scout'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2009-08-13,Classless Update
+Familiar Fez,['Spy'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Pyromancer's Hood,['Pyro'],Hat,No Grade,False,['Legacy Crates'],2014-12-22,Smissmas 2014
+Wing Mann,['Scout'],Hat,Mercenary,False,['Creepy Crawly Case'],2016-10-21,Scream Fortress VIII
+Base Metal Billycock,['Spy'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Spy']",2013-05-17,Robotic Boogaloo
+Mining Light,['Engineer'],Misc,No Grade,False,['No Longer Unboxable'],2009-05-21,Sniper vs. Spy Update
+Patriot Peak,['All class'],Hat,Mercenary,False,['Tough Break Cosmetic Case'],2015-12-17,Tough Break Update
+Defragmenting Hard Hat 17%,['Engineer'],Hat,Assassin,False,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Charmer's Chapeau,['Spy'],Hat,No Grade,False,['Legacy Crates'],2011-04-07,Third Community Contribution Update
+Old Guadalajara,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2010-09-30,Mann-Conomy Update
+Classy Capper,['Sniper'],Hat,Mercenary,False,['Abominable Cosmetic Case'],2017-10-20,Jungle Inferno Update
+Modest Pile of Hat,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2010-01-27,Miscellaneous Minor Update
+Crit Cloak,['Soldier'],Hat,Commando,False,['Unleash the Beast Cosmetic Case'],2017-10-20,Jungle Inferno Update
+Tartan Tyrolean,['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2013-12-20,Smissmas 2013
+Batter's Helmet,['Scout'],Hat,No Grade,False,['Legacy Crates'],2009-05-21,Sniper vs. Spy Update
+Vintage Merryweather,['Pyro'],Hat,No Grade,False,['Legacy Crates'],2010-05-20,Second Community Contribution Update
+Plumber's Pipe,['Pyro'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2013-05-17,Robotic Boogaloo
+Smissmas Saxton,['All class'],Hat,Assassin,False,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Lil' Bitey,['All class'],Hat,Commando,False,['Creepy Crawly Case'],2016-10-21,Scream Fortress VIII
+Company Man,['All class'],Hat,No Grade,False,['Legacy Crates'],2011-08-18,Manno-Technology Bundle
+Brown Bomber,['All class'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2011-12-15,Australian Christmas 2011
+Hawk Warrior,['Soldier'],Hat,Assassin,False,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Cloud Crasher,['Soldier'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2013-06-13,Second Workshop Content Pack
+Glasgow Great Helm,['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2013-07-10,Summer Event 2013
+Puffy Polar Cap,['Sniper'],Hat,Mercenary,False,['Winter 2017 Cosmetic Case'],2017-12-21,Smissmas 2017
+Full Metal Drill Hat,['Soldier'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2013-05-17,Robotic Boogaloo
+Frag Proof Fragger,['Demoman'],Quickswitch Misc,Assassin,False,['Blue Moon Cosmetic Case'],2018-03-28,Blue Moon Pack
+Le Party Phantom,['Spy'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Millennial Mercenary,['Scout'],Hat,Assassin,False,['Winter 2018 Cosmetic Case'],2018-12-19,Smissmas 2018
+Bomber Knight,['Demoman'],Hat,Elite,False,['Unlocked Winter 2016 Cosmetic Case'],2016-12-21,Smissmas 2016
+Otolaryngologist's Mirror,['Medic'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2009-08-13,Classless Update
+Dayjogger,['Demoman'],Hat,Assassin,False,['Mayflower Cosmetic Case'],2016-05-11,Mayflower Pack
+Whirly Warrior,['Soldier'],Quickswitch Misc,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2013-07-10,Summer Event 2013
+Slo-Poke,['Soldier'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2013-12-20,Smissmas 2013
+Pyro's Boron Beanie,['Pyro'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2013-05-17,Robotic Boogaloo
+Honcho's Headgear,['Soldier'],Hat,No Grade,False,['Legacy Crates'],2011-04-07,Third Community Contribution Update
+Gentleman's Ushanka,['Medic'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2012-06-27,Pyromania Update
+Globetrotter,['All class'],Hat,Commando,False,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Class Crown,['All class'],Hat,Elite,False,['Creepy Crawly Case'],2016-10-21,Scream Fortress VIII
+Capo's Capper,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2011-06-23,Über Update
+Herald's Helm,['Scout'],Quickswitch Misc,Commando,False,['Mayflower Cosmetic Case'],2016-05-11,Mayflower Pack
+War Pig,['Soldier'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2012-09-06,First Workshop Content Pack
+Galvanized Gibus,['All class'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2013-05-17,Robotic Boogaloo
+Respectless Rubber Glove,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2009-08-13,Classless Update
+Tungsten Toque,['Heavy'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2013-05-17,Robotic Boogaloo
+Shellmet,['Soldier'],Hat,Mercenary,False,['Abominable Cosmetic Case'],2017-10-20,Jungle Inferno Update
+Antlers,['All class'],Misc,No Grade,False,['No Longer Unboxable'],2012-12-20,Mecha Update
+Bunsen Brave,['Heavy'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2013-05-17,Robotic Boogaloo
+Sky High Fly Guy,['Soldier'],Hat,Mercenary,False,['Blue Moon Cosmetic Case'],2018-03-28,Blue Moon Pack
+Noh Mercy,['Spy'],Misc,No Grade,False,['No Longer Unboxable'],2011-03-10,Shogun Pack
+Nuke,"['Soldier', 'Heavy']",Hat,Mercenary,False,['Abominable Cosmetic Case'],2017-10-20,Jungle Inferno Update
+Convict Cap,['Heavy'],Hat,Mercenary,False,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+German Gonzila,['Medic'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Hound Dog,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2010-03-18,First Community Contribution Update
+Virtual Reality Headset,['Engineer'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Engineer']",2011-10-13,Manniversary Update & Sale
+Hot Dogger,['All Classes'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate All Classes']",2011-10-13,Manniversary Update & Sale
+Dead Cone,['Pyro'],Hat,No Grade,False,['Legacy Crates'],2011-04-28,Miscellaneous Minor Update
+Battle Boonie,['Medic'],Hat,Mercenary,False,['Unleash the Beast Cosmetic Case'],2017-10-20,Jungle Inferno Update
+Surgeon's Stahlhelm,['Medic'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2011-10-13,Manniversary Update & Sale
+Brass Bucket,['Soldier'],Hat,Mercenary,False,['Winter 2017 Cosmetic Case'],2017-12-21,Smissmas 2017
+Brigade Helm,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2009-08-13,Classless Update
+Frontier Djustice,['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2014-06-18,Love & War Update
+Stainless Pot,['Soldier'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2009-08-13,Classless Update
+A Rather Festive Tree,['All class'],Hat,No Grade,False,['Legacy Crates'],2010-12-17,Australian Christmas
+Feathered Fiend,['Pyro'],Hat,Commando,False,['Unleash the Beast Cosmetic Case'],2017-10-20,Jungle Inferno Update
+Handyman's Handle,['Pyro'],Hat,No Grade,False,['Legacy Crates'],2010-09-30,Mann-Conomy Update
+Powdered Practitioner,"['Soldier', 'Medic', 'Spy']",Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Multi-Class']",2013-06-13,Second Workshop Content Pack
+Private Eye,"['Demoman', 'Medic', 'Spy']",Hat,No Grade,False,['Legacy Crates'],2011-04-07,Third Community Contribution Update
+Fortunate Son,['Scout'],Hat,Commando,False,['Gun Mettle Cosmetic Case'],2015-08-27,Miscellaneous Minor Update
+Master's Yellow Belt,['Sniper'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Sniper']",2009-08-13,Classless Update
+Texas Tin-Gallon,['Engineer'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Engineer']",2013-05-17,Robotic Boogaloo
+Das Naggenvatcher,['Medic'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Medic']",2013-07-10,Summer Event 2013
+Wide-Brimmed Bandito,['Engineer'],Hat,Mercenary,False,['Creepy Crawly Case'],2016-10-21,Scream Fortress VIII
+Bot Dogger,['All Classes'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate All Classes']",2013-05-17,Robotic Boogaloo
+Soviet Gentleman,['Heavy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2012-09-06,First Workshop Content Pack
+Ground Control,['Soldier'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Soldier']",2014-02-07,Strongbox Pack
+Big Elfin Deal,['Scout'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2011-12-15,Australian Christmas 2011
+Fire Fighter,['Pyro'],Hat,Mercenary,False,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Cadaver's Cranium,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2010-10-27,Scream Fortress Update
+Football Helmet,['Heavy'],Hat,No Grade,False,['Legacy Crates'],2009-05-21,Sniper vs. Spy Update
+Blighted Beak,['Medic'],Misc,No Grade,False,['No Longer Unboxable'],2010-12-17,Australian Christmas
+Geisha Boy,['Medic'],Hat,No Grade,False,['Legacy Crates'],2011-03-10,Shogun Pack
+Corona Australis,['Sniper'],Quickswitch Misc,Elite,False,['Quarantined Collection Case'],2015-10-06,Invasion Community Update
+Cold Killer,['Sniper'],Hat,No Grade,False,['Legacy Crates'],2012-12-20,Mecha Update
+Tartan Spartan,['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2013-07-10,Summer Event 2013
+Shooter's Sola Topi,['Sniper'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Sniper']",2010-03-18,First Community Contribution Update
+Smokey Sombrero,['Engineer'],Hat,Mercenary,False,['Gargoyle Case'],2015-10-28,Scream Fortress VII
+Pyro's Beanie,['Pyro'],Hat,No Grade,False,['Legacy Crates'],2009-05-21,Sniper vs. Spy Update
+Winter Wrap Up,"['Pyro', 'Engineer', 'Sniper']",Hat,Commando,False,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Backbreaker's Skullcracker,['Demoman'],Hat,Commando,False,['Summer 2019 Cosmetic Case'],2019-07-25,Summer 2019 Pack
+Warhood,['Heavy'],Hat,Mercenary,False,['Rainy Day Cosmetic Case'],2017-05-15,Rainy Day Pack
+Bear Necessities,['Heavy'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Heavy']",2013-07-10,Summer Event 2013
+Soldered Sensei,['Sniper'],Hat,No Grade,True,"['Legacy Crates', 'Unlocked Cosmetic Crate Sniper']",2013-05-17,Robotic Boogaloo
+Chill Chullo,['All class'],Hat,Commando,False,['Tough Break Cosmetic Case'],2015-12-17,Tough Break Update
+Jumper's Jeepcap,['Soldier'],Hat,No Grade,False,['Legacy Crates'],2011-06-23,Über Update
+Lord Cockswain's Pith Helmet,['Soldier'],Hat,No Grade,False,['Legacy Crates'],2011-07-20,Dr. Grordbort's Victory Pack Update
+Soldier's Slope Scopers,['Soldier'],Hat,No Grade,False,['Legacy Crates'],2012-12-20,Mecha Update
+Greased Lightning,['Scout'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Scout']",2013-07-10,Summer Event 2013
+Fancy Fedora,['Spy'],Hat,No Grade,False,['Legacy Crates'],2009-05-21,Sniper vs. Spy Update
+Allbrero,['Demoman'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Demoman']",2014-06-18,Love & War Update
+Sole Mate,['Pyro'],Hat,No Grade,False,"['Legacy Crates', 'Unlocked Cosmetic Crate Pyro']",2014-02-07,Strongbox Pack
+Reggaelator,['Demoman'],Hat,No Grade,False,['Legacy Crates'],2011-04-07,Third Community Contribution Update

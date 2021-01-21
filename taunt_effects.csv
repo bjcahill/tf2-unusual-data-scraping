@@ -1,0 +1,54 @@
+effect_name,effect_id,effect_generation,partner_effects
+Ghastly Ghosts,3012,Halloween 2014,['Haunted Phantasm (green)']
+Haunted Phantasm,3011,Halloween 2014,['Ghastly Ghosts (purple)']
+Hellish Inferno,3013,Halloween 2016,[]
+Infernal Flames,3015,Halloween 2016,['Infernal Smoke (greeen)']
+Infernal Smoke,3016,Halloween 2016,['Infernal Flames (purple)']
+Spectral Swirl,3014,Halloween 2016,[]
+Acidic Bubbles of Envy,3017,Halloween 2018,"['Flammable Bubbles of Attraction (orange)', 'Poisonous Bubbles of Regret (purple)']"
+Flammable Bubbles of Attraction,3018,Halloween 2018,"['Acidic Bubbles of Envy (yellow)', 'Poisonous Bubbles of Regret (purple)']"
+Ominous Night,3022,Halloween 2018,['Spooky Night (black)']
+Poisonous Bubbles of Regret,3019,Halloween 2018,"['Flammable Bubbles of Attraction (orange)', 'Acidic Bubbles of Envy (yellow)']"
+Roaring Rockets,3020,Halloween 2018,[]
+Spooky Night,3021,Halloween 2018,['Ominous Night (green)']
+Accursed,3024,Halloween 2019,"['Bewitched (purple)', 'Enchanted (gold)']"
+Bewitched,3023,Halloween 2019,"['Accursed (green)', 'Enchanted (gold)']"
+Eerie Lightning,3027,Halloween 2019,"['Jarate Shock (yellow)', 'Terrifying Thunder (blue)']"
+Enchanted,3025,Halloween 2019,"['Bewitched (purple)', 'Accursed (green)']"
+Jarate Shock,3029,Halloween 2019,"['Eerie Lightning (purple)', 'Terrifying Thunder (blue)']"
+Nether Void,3030,Halloween 2019,[]
+Static Mist,3026,Halloween 2019,[]
+Terrifying Thunder,3028,Halloween 2019,"['Jarate Shock (yellow)', 'Eerie Lightning (purple)']"
+Arachnid Assault,3047,Halloween 2020,"['Creepy Crawlies (purple)', 'Toxic Terrors (green)']"
+Arcane Assistance,3040,Halloween 2020,"['Astral Presence (green-purple)', 'Spectral Escort (lime-orange)']"
+Astral Presence,3038,Halloween 2020,"['Arcane Assistance (team colors)', 'Spectral Escort (lime-orange)']"
+Creepy Crawlies,3048,Halloween 2020,"['Arachnid Assault (red)', 'Toxic Terrors (green)']"
+Emerald Allurement,3041,Halloween 2020,"['Pyrophoric Personality (orange)', 'Spellbound Aspect (purple)']"
+Pyrophoric Personality,3042,Halloween 2020,"['Emerald Allurement (green)', 'Spellbound Aspect (purple)']"
+Spectral Escort,3037,Halloween 2020,"['Astral Presence (green-purple)', 'Arcane Assistance (team colors)']"
+Spellbound Aspect,3043,Halloween 2020,"['Pyrophoric Personality (orange)', 'Emerald Allurement (green)']"
+Static Shock,3044,Halloween 2020,['Veno Shock (purple)']
+Toxic Terrors,3046,Halloween 2020,"['Creepy Crawlies (purple)', 'Arachnid Assault (red)']"
+Veno Shock,3045,Halloween 2020,['Static Shock (gold)']
+Arctic Aurora,3033,Smissmas 2019,['Wintery Wisp (purple)']
+Festive Spirit,3035,Smissmas 2019,"['Magical Spirit (purple-orange)', 'Winter Spirit (blue)']"
+Good-Hearted Goodies,3031,Smissmas 2019,[]
+Magical Spirit,3036,Smissmas 2019,"['Festive Spirit (green-orange)', 'Winter Spirit (blue)']"
+Winter Spirit,3034,Smissmas 2019,"['Magical Spirit (purple-orange)', 'Festive Spirit (green-orange)']"
+Wintery Wisp,3032,Smissmas 2019,['Arctic Aurora (blue)']
+Apotheosis,,Smissmas 2020,['Ascension (purple)']
+Ascension,,Smissmas 2020,['Apotheosis (blue)']
+Delightful Star,,Smissmas 2020,['Frosted Star (blue)']
+Frosted Star,,Smissmas 2020,['Delightful Star (green)']
+Reindoonicorn Rancher,,Smissmas 2020,[]
+Shimmering Lights,,Smissmas 2020,['Twinkling Lights (red-green-blue)']
+Twinkling Lights,,Smissmas 2020,['Shimmering Lights (blue-white-gold)']
+'72,3004,Love & War,[]
+Fountain of Delight,3005,Love & War,[]
+Holy Grail,3003,Love & War,[]
+Mega Strike,3010,Love & War,[]
+Midnight Whirlwind,3008,Love & War,['Silver Cyclone (grey)']
+Screaming Tiger,3006,Love & War,[]
+Showstopper,3002,Love & War,[]
+Silver Cyclone,3009,Love & War,['Midnight Whirlwind (black)']
+Skill Gotten Gains,3007,Love & War,[]

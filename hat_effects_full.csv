@@ -1,0 +1,150 @@
+effect_name,effect_id,effect_generation,partner_effects,rarity,availability,release_date,release_update
+Burning Flames,13,First Generation,['Scorching Flames (green)'],Common,"['Legacy Crates #1 - #25', 'Cosmetic Cases']",2010-09-30,Mann-Conomy Update
+Circling Heart,19,First Generation,[],Common,"['Legacy Crates #1 - #25', 'Cosmetic Cases']",2010-09-30,Mann-Conomy Update
+Circling Peace Sign,18,First Generation,[],Common,"['Legacy Crates #1 - #25', 'Cosmetic Cases']",2010-09-30,Mann-Conomy Update
+Circling TF Logo,11,First Generation,[],Common,"['Legacy Crates #1 - #25', 'Cosmetic Cases']",2010-09-30,Mann-Conomy Update
+Green Confetti,6,First Generation,['Purple Confetti (purple)'],Common,"['Legacy Crates #1 - #25', 'Cosmetic Cases']",2010-09-30,Mann-Conomy Update
+Green Energy,9,First Generation,['Purple Energy (purple)'],Common,"['Legacy Crates #1 - #25', 'Cosmetic Cases']",2010-09-30,Mann-Conomy Update
+Haunted Ghosts,8,First Generation,[],Common,"['Legacy Crates #1 - #25', 'Cosmetic Cases']",2010-09-30,Mann-Conomy Update
+Massed Flies,12,First Generation,[],Common,"['Legacy Crates #1 - #25', 'Cosmetic Cases']",2010-09-30,Mann-Conomy Update
+Purple Confetti,7,First Generation,['Green Confetti (green)'],Common,"['Legacy Crates #1 - #25', 'Cosmetic Cases']",2010-09-30,Mann-Conomy Update
+Purple Energy,10,First Generation,['Green Energy (green)'],Common,"['Legacy Crates #1 - #25', 'Cosmetic Cases']",2010-09-30,Mann-Conomy Update
+Scorching Flames,14,First Generation,['Burning Flames (red)'],Common,"['Legacy Crates #1 - #25', 'Cosmetic Cases']",2010-09-30,Mann-Conomy Update
+Searing Plasma,15,First Generation,['Vivid Plasma (gold)'],Common,"['Legacy Crates #1 - #25', 'Cosmetic Cases']",2010-09-30,Mann-Conomy Update
+Sunbeams,17,First Generation,[],Common,"['Legacy Crates #1 - #25', 'Cosmetic Cases']",2010-09-30,Mann-Conomy Update
+Vivid Plasma,16,First Generation,['Searing Plasma (green-purple)'],Common,"['Legacy Crates #1 - #25', 'Cosmetic Cases']",2010-09-30,Mann-Conomy Update
+Blizzardy Storm,30,Second Generation,['Stormy Storm (lightning cloud)'],Common,"['Legacy Crates #26 - #58', 'Cosmetic Cases']",2011-08-18,Manno-Technology Bundle
+Bubbling,34,Second Generation,[],Common,"['Legacy Crates #26 - #58', 'Cosmetic Cases']",2011-08-18,Manno-Technology Bundle
+Nuts n' Bolts,31,Second Generation,[],Common,"['Legacy Crates #26 - #58', 'Cosmetic Cases']",2011-08-18,Manno-Technology Bundle
+Orbiting Fire,33,Second Generation,[],Common,"['Legacy Crates #26 - #58', 'Cosmetic Cases']",2011-08-18,Manno-Technology Bundle
+Orbiting Planets,32,Second Generation,[],Common,"['Legacy Crates #26 - #58', 'Cosmetic Cases']",2011-08-18,Manno-Technology Bundle
+Smoking,35,Second Generation,['Steaming (white)'],Common,"['Legacy Crates #26 - #58', 'Cosmetic Cases']",2011-08-18,Manno-Technology Bundle
+Steaming,36,Second Generation,['Smoking (black)'],Common,"['Legacy Crates #26 - #58', 'Cosmetic Cases']",2011-08-18,Manno-Technology Bundle
+Stormy Storm,29,Second Generation,['Blizzardy Storm (snow cloud)'],Common,"['Legacy Crates #26 - #58', 'Cosmetic Cases']",2011-08-18,Manno-Technology Bundle
+Aces High,59,Third Generation,['Dead Presidents (money)'],Common,"['Legacy Crates #59 - #103', 'Cosmetic Cases']",2013-06-19,Summer Event 2013
+Cloud 9,58,Third Generation,[],Common,"['Legacy Crates #59 - #103', 'Cosmetic Cases']",2013-06-19,Summer Event 2013
+Dead Presidents,60,Third Generation,['Aces High (playing cards)'],Common,"['Legacy Crates #59 - #103', 'Cosmetic Cases']",2013-06-19,Summer Event 2013
+Disco Beat Down,62,Third Generation,[],Common,"['Legacy Crates #59 - #103', 'Cosmetic Cases']",2013-06-19,Summer Event 2013
+Kill-a-Watt,56,Third Generation,['Terror-Watt (green)'],Common,"['Legacy Crates #59 - #103', 'Cosmetic Cases']",2013-06-19,Summer Event 2013
+Miami Nights,61,Third Generation,[],Common,"['Legacy Crates #59 - #103', 'Cosmetic Cases']",2013-06-19,Summer Event 2013
+Terror-Watt,57,Third Generation,['Kill-a-Watt (yellow)'],Common,"['Legacy Crates #59 - #103', 'Cosmetic Cases']",2013-06-19,Summer Event 2013
+Aromatica,148,Summer 2020,"['Chromatica (purple)', 'Prismatica (blue)']",Pseudo-Limited,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Bee Swarm,151,Summer 2020,[],Pseudo-Limited,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Chromatica,149,Summer 2020,"['Aromatica (orange)', 'Prismatica (blue)']",Pseudo-Limited,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Frisky Fireflies,152,Summer 2020,"['Smoldering Spirits (orange)', 'Wandering Wisps (purple)']",Pseudo-Limited,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Kaleidoscope,155,Summer 2020,[],Pseudo-Limited,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Prismatica,150,Summer 2020,"['Aromatica (orange)', 'Chromatica (purple)']",Pseudo-Limited,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Smoldering Spirits,153,Summer 2020,"['Frisky Fireflies (yellow)', 'Wandering Wisps (purple)']",Pseudo-Limited,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Verdatica,147,Summer 2020,[],Pseudo-Limited,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Wandering Wisps,154,Summer 2020,"['Frisky Fireflies (yellow)', 'Smoldering Spirits (orange)']",Pseudo-Limited,['Summer 2020 Cosmetic Case'],2020-08-21,Summer 2020 Pack
+Cauldron Bubbles,39,Halloween 2011,[],Limited,['No Longer Unboxable'],2011-10-27,Very Scary Halloween Special
+Cloudy Moon,38,Halloween 2011,['Harvest Moon (green)'],Limited,['No Longer Unboxable'],2011-10-27,Very Scary Halloween Special
+Eerie Orbiting Fire,40,Halloween 2011,[],Limited,['No Longer Unboxable'],2011-10-27,Very Scary Halloween Special
+Flaming Lantern,37,Halloween 2011,[],Limited,['No Longer Unboxable'],2011-10-27,Very Scary Halloween Special
+Harvest Moon,45,Halloween 2012,['Cloudy Moon (black)'],Limited,['No Longer Unboxable'],2012-10-26,Spectral Halloween Special
+It's A Secret To Everybody,46,Halloween 2012,[],Limited,['No Longer Unboxable'],2012-10-26,Spectral Halloween Special
+Knifestorm,43,Halloween 2012,[],Limited,['No Longer Unboxable'],2012-10-26,Spectral Halloween Special
+Misty Skull,44,Halloween 2012,[],Limited,['No Longer Unboxable'],2012-10-26,Spectral Halloween Special
+Stormy 13th Hour,47,Halloween 2012,[],Limited,['No Longer Unboxable'],2012-10-26,Spectral Halloween Special
+Arcana,73,Halloween 2013,['Spellbound (purple)'],Limited,['No Longer Unboxable'],2013-10-29,Scream Fortress V
+Chiroptera Venenata,75,Halloween 2013,"['Something Burning This Way Comes (orange)', 'Poisoned Shadows (purple)']",Limited,['No Longer Unboxable'],2013-10-29,Scream Fortress V
+Darkblaze,79,Halloween 2013,"['Hellfire (orange)', 'Demonflame (green)']",Limited,['No Longer Unboxable'],2013-10-29,Scream Fortress V
+Demonflame,80,Halloween 2013,"['Hellfire (orange)', 'Darkblaze (purple)']",Limited,['No Longer Unboxable'],2013-10-29,Scream Fortress V
+Hellfire,78,Halloween 2013,"['Darkblaze (purple)', 'Demonflame (green)']",Limited,['No Longer Unboxable'],2013-10-29,Scream Fortress V
+Poisoned Shadows,76,Halloween 2013,"['Something Burning This Way Comes (orange)', 'Chiroptera Venenata (green)']",Limited,['No Longer Unboxable'],2013-10-29,Scream Fortress V
+Something Burning This Way Comes,77,Halloween 2013,"['Chiroptera Venenata (green)', 'Poisoned Shadows (purple)']",Limited,['No Longer Unboxable'],2013-10-29,Scream Fortress V
+Spellbound,74,Halloween 2013,['Arcana (green)'],Limited,['No Longer Unboxable'],2013-10-29,Scream Fortress V
+Amaranthine,82,Halloween 2014,"['Stare From Beyond (orange)', 'The Ooze (green)']",Limited,['No Longer Unboxable'],2014-10-29,Scream Fortress VI
+Bonzo The All-Gnawing,81,Halloween 2014,[],Limited,['No Longer Unboxable'],2014-10-29,Scream Fortress VI
+Ghastly Ghosts Jr,85,Halloween 2014,['Haunted Phantasm Jr (green)'],Limited,['No Longer Unboxable'],2014-10-29,Scream Fortress VI
+Haunted Phantasm Jr,86,Halloween 2014,['Ghastly Ghosts Jr (purple)'],Limited,['No Longer Unboxable'],2014-10-29,Scream Fortress VI
+Stare From Beyond,83,Halloween 2014,"['Amaranthine (purple)', 'The Ooze (green)']",Limited,['No Longer Unboxable'],2014-10-29,Scream Fortress VI
+The Ooze,84,Halloween 2014,"['Stare From Beyond (orange)', 'Amaranthine (purple)']",Limited,['No Longer Unboxable'],2014-10-29,Scream Fortress VI
+Ancient Eldritch,105,Halloween 2015,['Eldritch Flame (yellow)'],Pseudo-Limited,['Gargoyle Case'],2015-10-28,Scream Fortress VII
+Death by Disco,100,Halloween 2015,[],Pseudo-Limited,['Gargoyle Case'],2015-10-28,Scream Fortress VII
+Eldritch Flame,106,Halloween 2015,['Ancient Flame (purple)'],Pseudo-Limited,['Gargoyle Case'],2015-10-28,Scream Fortress VII
+Ether Trail,103,Halloween 2015,['Nether Trail (red)'],Pseudo-Limited,['Gargoyle Case'],2015-10-28,Scream Fortress VII
+It's a mystery to everyone,101,Halloween 2015,"[""It's a puzzle to me (green)""]",Pseudo-Limited,['Gargoyle Case'],2015-10-28,Scream Fortress VII
+It's a puzzle to me,102,Halloween 2015,"[""It's a mystery to everyone (purple)""]",Pseudo-Limited,['Gargoyle Case'],2015-10-28,Scream Fortress VII
+Nether Trail,104,Halloween 2015,['Nether Trail (purple)'],Pseudo-Limited,['Gargoyle Case'],2015-10-28,Scream Fortress VII
+Neutron Star,107,Halloween 2016,[],Pseudo-Limited,['Creepy Crawley Case'],2016-10-21,Scream Fortress VIII
+Starstorm Insomnia,109,Halloween 2016,['Starstorm Slumber (purple)'],Pseudo-Limited,['Creepy Crawley Case'],2016-10-21,Scream Fortress VIII
+Starstorm Slumber,110,Halloween 2016,['Starstorm Insomnia (green)'],Pseudo-Limited,['Creepy Crawley Case'],2016-10-21,Scream Fortress VIII
+Tesla Coil,108,Halloween 2016,[],Pseudo-Limited,['Creepy Crawley Case'],2016-10-21,Scream Fortress VIII
+Brain Drain,111,Halloween 2018,"['Open Mind (orange)', 'Head of Steam (purple)']",Pseudo-Limited,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Clairvoyance,121,Halloween 2018,[],Pseudo-Limited,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Galactic Gateway,114,Halloween 2018,"['The Dark Doorway (purple)', 'The Eldritch Opening (pink)']",Pseudo-Limited,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Head of Steam,113,Halloween 2018,"['Open Mind (orange)', 'Brain Drain (green)']",Pseudo-Limited,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Omniscient Orb,120,Halloween 2018,[],Pseudo-Limited,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Open Mind,112,Halloween 2018,"['Brain Drain (green)', 'Head of Steam (purple)']",Pseudo-Limited,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Ring of Fire,117,Halloween 2018,"['Vicious Circle (purple)', 'White Lightning (white)']",Pseudo-Limited,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+The Dark Doorway,116,Halloween 2018,"['Galactic Gateway (blue)', 'The Eldritch Opening (pink)']",Pseudo-Limited,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+The Eldritch Opening,115,Halloween 2018,"['The Dark Doorway (purple)', 'Galactic Gateway (blue)']",Pseudo-Limited,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Vicious Circle,118,Halloween 2018,"['Ring of Fire (orange)', 'White Lightning (white)']",Pseudo-Limited,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+White Lightning,119,Halloween 2018,"['Vicious Circle (purple)', 'Ring of Fire (orange)']",Pseudo-Limited,['Violet Vermin Case'],2018-10-19,Scream Fortress X
+Abyssal Aura,125,Halloween 2019,"['Menacing Miasma (green)', 'Vicious Vortex (purple)']",Pseudo-Limited,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Ethereal Essence,129,Halloween 2019,"['Twisted Radiance (blue)', 'Mystical Medley (purple)']",Pseudo-Limited,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Fifth Dimension,122,Halloween 2019,[],Pseudo-Limited,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Ghastly Grove,127,Halloween 2019,['Wicked Wood (purple)'],Pseudo-Limited,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Menacing Miasma,124,Halloween 2019,"['Abyssal Aura (red)', 'Vicious Vortex (purple)']",Pseudo-Limited,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Mystical Medley,128,Halloween 2019,"['Twisted Radiance (blue)', 'Ethereal Essence (green)']",Pseudo-Limited,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Twisted Radiance,130,Halloween 2019,"['Ethereal Essence (green)', 'Mystical Medley (purple)']",Pseudo-Limited,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Valiant Vortex,133,Halloween 2019,"['Verdant Vortex (green)', 'Violet Vortex (purple)']",Pseudo-Limited,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Verdant Vortex,132,Halloween 2019,"['Valiant Vortex (orange)', 'Violet Vortex (purple)']",Pseudo-Limited,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Vicious Vortex,123,Halloween 2019,"['Menacing Miasma (green)', 'Abyssal Aura (red)']",Pseudo-Limited,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Violet Vortex,131,Halloween 2019,"['Verdant Vortex (green)', 'Valiant Vortex (orange)']",Pseudo-Limited,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Wicked Wood,126,Halloween 2019,['Ghastly Grove (green)'],Pseudo-Limited,['Spooky Spoils Case'],2019-10-10,Scream Fortress XI
+Gourdian Angel,162,Halloween 2020,[],Pseudo-Limited,['Wicked Windfall Case'],2020-10-01,Scream Fortress XII
+Gravelly Ghoul,160,Halloween 2020,['Vexed Volcanics (orange)'],Pseudo-Limited,['Wicked Windfall Case'],2020-10-01,Scream Fortress XII
+Green Giggler,156,Halloween 2020,"['Laugh-O-Lantern (orange)', 'Plum Prankster (purple)']",Pseudo-Limited,['Wicked Windfall Case'],2020-10-01,Scream Fortress XII
+Laugh-O-Lantern,157,Halloween 2020,"['Green Giggler (green)', 'Plum Prankster (purple)']",Pseudo-Limited,['Wicked Windfall Case'],2020-10-01,Scream Fortress XII
+Plum Prankster,158,Halloween 2020,"['Laugh-O-Lantern (orange)', 'Green Giggler (green)']",Pseudo-Limited,['Wicked Windfall Case'],2020-10-01,Scream Fortress XII
+Pumpkin Party,163,Halloween 2020,[],Pseudo-Limited,['Wicked Windfall Case'],2020-10-01,Scream Fortress XII
+Pyroland Nightmare,159,Halloween 2020,[],Pseudo-Limited,['Wicked Windfall Case'],2020-10-01,Scream Fortress XII
+Vexed Volcanics,161,Halloween 2020,['Gravelly Ghoul (purple)'],Pseudo-Limited,['Wicked Windfall Case'],2020-10-01,Scream Fortress XII
+Defragmenting Reality,139,Smissmas 2019,"['Fragmenting Reality (green)', 'Refragmenting Reality (orange)']",Pseudo-Limited,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Fragmented Gluons,136,Smissmas 2019,"['Fragmented Photons (purple)', 'Fragmented Quarks (orange)']",Pseudo-Limited,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Fragmented Photons,138,Smissmas 2019,"['Fragmented Gluons (green)', 'Fragmented Quarks (orange)']",Pseudo-Limited,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Fragmented Quarks,137,Smissmas 2019,"['Fragmented Photons (purple)', 'Fragmented Gluons (green)']",Pseudo-Limited,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Fragmenting Reality,141,Smissmas 2019,"['Defragmenting Reality (team colored)', 'Refragmenting Reality (orange)']",Pseudo-Limited,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Frozen Icefall,135,Smissmas 2019,[],Pseudo-Limited,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Pyroland Daydream,145,Smissmas 2019,[],Pseudo-Limited,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Refragmenting Reality,142,Smissmas 2019,"['Fragmenting Reality (green)', 'Defragmenting Reality (team colored)']",Pseudo-Limited,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Snowblinded,144,Smissmas 2019,['Snowfallen (blue)'],Pseudo-Limited,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Snowfallen,143,Smissmas 2019,['Snowblinded (white)'],Pseudo-Limited,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Sparkling Lights,134,Smissmas 2019,[],Pseudo-Limited,['Winter 2019 Cosmetic Case'],2019-12-16,Smissmas 2019
+Blighted Snowstorm,,Smissmas 2020,"['Pale Nimbus (white)', 'Violent Wintertide (blue)']",Pseudo-Limited,['Winter 2020 Cosmetic Case'],2020-12-03,Smissmas 2020
+Distant Dream,,Smissmas 2020,['Divine Desire (purple)'],Pseudo-Limited,['Winter 2020 Cosmetic Case'],2020-12-03,Smissmas 2020
+Divine Desire,,Smissmas 2020,['Distant Dream (blue)'],Pseudo-Limited,['Winter 2020 Cosmetic Case'],2020-12-03,Smissmas 2020
+Frozen Fractals,,Smissmas 2020,"['Lavender Landfall (purple)', 'Special Snowfall (yellow)']",Pseudo-Limited,['Winter 2020 Cosmetic Case'],2020-12-03,Smissmas 2020
+Genus Plasmos,,Smissmas 2020,"['Serenus Lumen (purple)', 'Ventum Maris (green)']",Pseudo-Limited,['Winter 2020 Cosmetic Case'],2020-12-03,Smissmas 2020
+Lavender Landfall,,Smissmas 2020,"['Frozen Fractals (blue)', 'Special Snowfall (yellow)']",Pseudo-Limited,['Winter 2020 Cosmetic Case'],2020-12-03,Smissmas 2020
+Mirthful Mistletoe,,Smissmas 2020,[],Pseudo-Limited,['Winter 2020 Cosmetic Case'],2020-12-03,Smissmas 2020
+Pale Nimbus,,Smissmas 2020,"['Blighted Snowstorm (purple)', 'Violent Wintertide (blue)']",Pseudo-Limited,['Winter 2020 Cosmetic Case'],2020-12-03,Smissmas 2020
+Serenus Lumen,,Smissmas 2020,"['Genus Plasmos (yellow)', 'Ventum Maris (green)']",Pseudo-Limited,['Winter 2020 Cosmetic Case'],2020-12-03,Smissmas 2020
+Special Snowfall,,Smissmas 2020,"['Lavender Landfall (purple)', 'Frozen Fractals (blue)']",Pseudo-Limited,['Winter 2020 Cosmetic Case'],2020-12-03,Smissmas 2020
+Ventum Maris,,Smissmas 2020,"['Serenus Lumen (purple)', 'Genus Plasmos (yellow)']",Pseudo-Limited,['Winter 2020 Cosmetic Case'],2020-12-03,Smissmas 2020
+Violent Wintertide,,Smissmas 2020,"['Pale Nimbus (white)', 'Blighted Snowstorm (purple)']",Pseudo-Limited,['Winter 2020 Cosmetic Case'],2020-12-03,Smissmas 2020
+Anti-Freeze,69,Robotic Boogaloo,['Roboactive (purple)'],Pseudo-Limited,['Robo Community Crate'],2013-05-17,Robotic Boogaloo
+Electrostatic,67,Robotic Boogaloo,['Power Surge (purple)'],Pseudo-Limited,['Robo Community Crate'],2013-05-17,Robotic Boogaloo
+Green Black Hole,71,Robotic Boogaloo,['Time Warp (pink)'],Pseudo-Limited,['Robo Community Crate'],2013-05-17,Robotic Boogaloo
+Memory Leak,65,Robotic Boogaloo,['Overclocked (yellow)'],Pseudo-Limited,['Robo Community Crate'],2013-05-17,Robotic Boogaloo
+Overclocked,66,Robotic Boogaloo,['Memory Leak (green)'],Pseudo-Limited,['Robo Community Crate'],2013-05-17,Robotic Boogaloo
+Phosphorous,63,Robotic Boogaloo,['Sulphurous (orange)'],Pseudo-Limited,['Robo Community Crate'],2013-05-17,Robotic Boogaloo
+Power Surge,68,Robotic Boogaloo,['Electrostatic (yellow)'],Pseudo-Limited,['Robo Community Crate'],2013-05-17,Robotic Boogaloo
+Roboactive,72,Robotic Boogaloo,['Anti-Freeze (green)'],Pseudo-Limited,['Robo Community Crate'],2013-05-17,Robotic Boogaloo
+Sulphurous,64,Robotic Boogaloo,['Phosphorous (green)'],Pseudo-Limited,['Robo Community Crate'],2013-05-17,Robotic Boogaloo
+Time Warp,70,Robotic Boogaloo,['Green Black Hole (green-purple)'],Pseudo-Limited,['Robo Community Crate'],2013-05-17,Robotic Boogaloo
+Death at Dusk,90,End of the Line,['Morning Glory (day)'],Pseudo-Limited,['End of the Line Community Crate'],2014-12-08,End of the Line Update
+Frostbite,87,End of the Line,[],Pseudo-Limited,['End of the Line Community Crate'],2014-12-08,End of the Line Update
+Molten Mallard,88,End of the Line,[],Pseudo-Limited,['End of the Line Community Crate'],2014-12-08,End of the Line Update
+Morning Glory,89,End of the Line,['Death at Dusk (night)'],Pseudo-Limited,['End of the Line Community Crate'],2014-12-08,End of the Line Update
+Abduction,91,Invasion,[],Pseudo-Limited,"['Confidential Collection Case', 'Quarantined Collection Case']",2015-10-06,Invasion Community Update
+Ancient Codex,98,Invasion,['Galactic Codex (green)'],Pseudo-Limited,"['Confidential Collection Case', 'Quarantined Collection Case']",2015-10-06,Invasion Community Update
+Atomic,92,Invasion,['Subatomic (green)'],Pseudo-Limited,"['Confidential Collection Case', 'Quarantined Collection Case']",2015-10-06,Invasion Community Update
+Electric Hat Protector,94,Invasion,"['Magnetic Hat Protector (blue)', 'Voltaic Hat Protector (green)']",Pseudo-Limited,"['Confidential Collection Case', 'Quarantined Collection Case']",2015-10-06,Invasion Community Update
+Galactic Codex,97,Invasion,['Ancient Codex (orange)'],Pseudo-Limited,"['Confidential Collection Case', 'Quarantined Collection Case']",2015-10-06,Invasion Community Update
+Magnetic Hat Protector,95,Invasion,"['Electric Hat Protector (yellow)', 'Voltaic Hat Protector (green)']",Pseudo-Limited,"['Confidential Collection Case', 'Quarantined Collection Case']",2015-10-06,Invasion Community Update
+Nebula,99,Invasion,[],Pseudo-Limited,"['Confidential Collection Case', 'Quarantined Collection Case']",2015-10-06,Invasion Community Update
+Subatomic,93,Invasion,['Atomic (white)'],Pseudo-Limited,"['Confidential Collection Case', 'Quarantined Collection Case']",2015-10-06,Invasion Community Update
+Voltaic Hat Protector,96,Invasion,"['Electric Hat Protector (yellow)', 'Magnetic Hat Protector (blue)']",Pseudo-Limited,"['Confidential Collection Case', 'Quarantined Collection Case']",2015-10-06,Invasion Community Update
